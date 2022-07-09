@@ -2,7 +2,7 @@ package com.example.demo.dao;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component  /** This indicates component*/
 public class CalculatorImpl implements Calculator {
 
 	@Override
